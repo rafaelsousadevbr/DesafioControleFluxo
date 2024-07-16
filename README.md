@@ -1,10 +1,11 @@
 # Desafio Controle Fluxo
-#### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
 
+Nesse projeto irei apresentar todo o conhecimento adquirido no Módulo `"Dominando a Linguagem de Programação Java"` e com isso fazer o desafio proposto abaixo.
 
 
 ## Apresentação do Desafio
+#### Autores
+- [Gleyson Sampaio](https://github.com/glysns)
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
 
